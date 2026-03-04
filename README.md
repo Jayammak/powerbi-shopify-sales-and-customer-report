@@ -31,8 +31,15 @@ performace analysis of revenue trends, customer purchase patterns and product pe
 - Purchase Frequency: 1.68
 
 ## Dashboard Insights
-
-
+## 1.Net Sales Trend Overtime
+- Sales shows fluctuating but overall positive growth trend.
+- peak revenue observed in the last date.
+## 2. Regional Sales Analysis
+- Top-performing cities include Washington, Houston and New york.
+- Certain provinces contributes significantly higher revenue.
+- Enables geographic targeting for marketing campaings.
+##3.
+  
 
 
 
