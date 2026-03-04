@@ -34,11 +34,34 @@ performace analysis of revenue trends, customer purchase patterns and product pe
 ## 1.Net Sales Trend Overtime
 - Sales shows fluctuating but overall positive growth trend.
 - peak revenue observed in the last date.
+Indicates consistent customer demand with seasonal variations.
 ## 2. Regional Sales Analysis
 - Top-performing cities include Washington, Houston and New york.
 - Certain provinces contributes significantly higher revenue.
-- Enables geographic targeting for marketing campaings.
-##3.
+ Enables geographic targeting for marketing campaings.
+## 3. Sales by Payment Gateway
+- Shopify payment contributes the highest revenue(58%)
+- Paypal and gift cards are secondary contributors
+Helps optimize payment gatway strategy and transaction fees.
+## 4.Product Performance
+- Running Shoes and Tennis Shoes are top-selling categories.
+- Accessories and niche categories show lower contribution.
+Supports inventory and product focus decisions.
+
+## Tools & Technologies Used
+- Excel / CSV Dataset – Data Source
+- DAX – Calculated Measures & KPIs
+- Data Modeling – Relationship Management
+- Power BI – Data Visualization & Dashboard Design
+
+## Business Recommendations
+
+- Focus marketing campaigns on high-performing cities.
+- Introduce loyalty programs to improve repeat rate.
+- Optimize inventory for top-selling product categories.
+- Promote underperforming product categories through bundling.
+- Evaluate payment gateway cost efficiency for higher profitability.
+
   
 
 
