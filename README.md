@@ -44,7 +44,8 @@ performace analysis of revenue trends, customer purchase patterns and product pe
 - Shopify payment contributes the highest revenue(58%)
 - Paypal and gift cards are secondary contributors
 Helps optimize payment gatway strategy and transaction fees.
-## 4.Product Performance
+## 4. Product Performance
+
 - Running Shoes and Tennis Shoes are top-selling categories.
 - Accessories and niche categories show lower contribution.
 - Supports inventory and product focus decisions.
