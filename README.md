@@ -2,6 +2,7 @@
 
 ![dashboard preview](Shopify-sales-and-customer-report.png)
 
+## Project Overview
   This project presents an interactive Shopify Sales & Customer Analytics Dashboard designed 
 to analyze sales performance, customer behavior, retention metrics, and regional insights.
   The dashboard is build using one week of shopify sales data, providing a focused short-term
