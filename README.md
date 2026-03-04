@@ -20,7 +20,7 @@ performace analysis of revenue trends, customer purchase patterns and product pe
 - Net Sales: $4,180,874
 - Total Quantity Sold: 7,534
 - Average Order Value: $562.6
-- 
+  
 ## 2. Customer Purchase Behaviour
 - Total Customers: 4431
 - Single Order Customers: 2392
@@ -35,11 +35,11 @@ performace analysis of revenue trends, customer purchase patterns and product pe
 ## 1.Net Sales Trend Overtime
 - Sales shows fluctuating but overall positive growth trend.
 - peak revenue observed in the last date.
-Indicates consistent customer demand with seasonal variations.
+- Indicates consistent customer demand with seasonal variations.
 ## 2. Regional Sales Analysis
 - Top-performing cities include Washington, Houston and New york.
 - Certain provinces contributes significantly higher revenue.
- Enables geographic targeting for marketing campaings.
+- Enables geographic targeting for marketing campaings.
 ## 3. Sales by Payment Gateway
 - Shopify payment contributes the highest revenue(58%)
 - Paypal and gift cards are secondary contributors
@@ -47,7 +47,7 @@ Helps optimize payment gatway strategy and transaction fees.
 ## 4.Product Performance
 - Running Shoes and Tennis Shoes are top-selling categories.
 - Accessories and niche categories show lower contribution.
-Supports inventory and product focus decisions.
+- Supports inventory and product focus decisions.
 
 ## Tools & Technologies Used
 - Excel / CSV Dataset – Data Source
